@@ -18,7 +18,7 @@ I am an experienced analytics professional specializing in data analytics and bu
 - **Data Warehousing:** Snowflake, SQL
 - **Visualization & Reporting:** Power BI, DAX
 - **Data Engineering:** dbt
-- **Automation & Integration:** Power Automate, SharePoint
+- **Automation & Integration:** Excel, Power Automate, SharePoint
 - **CRM Tools:** Salesforce
 - **Data Governance:** Standardization, Process Optimization
 
