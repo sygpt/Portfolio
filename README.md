@@ -1,4 +1,4 @@
-# Sy Soni - Data & Analytics Portfolio
+# Data & Analytics Portfolio
 
 Welcome to my professional Power BI portfolio! Here, you'll find a showcase of my skills, expertise, and experience in data analytics, business intelligence, and reporting. This repository highlights projects and case studies utilizing Power BI to deliver actionable insights and drive data-driven decision-making.
 
