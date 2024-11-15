@@ -27,7 +27,7 @@ I am an experienced analytics professional specializing in data analytics and bu
 ## 📫 Connect With Me
 Feel free to reach out to discuss projects or potential collaborations!
 
-- **LinkedIn:** [linkedin.com/in/sysoni][https://www.linkedin.com/in/sysoni]
+- **LinkedIn:** https://www.linkedin.com/in/sysoni
 
 ---
 
