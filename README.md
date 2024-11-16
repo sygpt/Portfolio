@@ -5,7 +5,7 @@ Welcome to my professional Power BI portfolio! Here, you'll find a showcase of m
 ---
 
 ## 🔍 About Me
-I am an experienced analytics professional specializing in data analytics and business intelligence with a passion for delivering strategic insights and scalable solutions. My technical expertise spans across:
+I am an experienced data analytics and business intelligence professional with a passion for delivering strategic insights and scalable solutions. My technical expertise spans across:
 - Advanced SQL and DAX for data querying and transformation.
 - Building dynamic dashboards and visualizations in Power BI.
 - Optimizing data pipelines using Snowflake.
