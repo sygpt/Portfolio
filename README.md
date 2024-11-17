@@ -1,11 +1,11 @@
-# Data & Analytics Portfolio
+# Data & Analytics: Power BI Portfolio
 
 Welcome to my professional Power BI portfolio! Here, you'll find a showcase of my skills, expertise, and experience in data analytics, business intelligence, and reporting. This repository highlights projects and case studies utilizing Power BI to deliver actionable insights and drive data-driven decision-making.
 
 ---
 
 ## 🔍 About Me
-I am an experienced data analytics and business intelligence professional with a passion for delivering strategic insights and scalable solutions. My technical expertise spans across:
+I'm an experienced data analytics and business intelligence professional with a passion for delivering strategic insights and scalable solutions. My technical expertise spans across:
 - Advanced SQL and DAX for data querying and transformation.
 - Building dynamic dashboards and visualizations in Power BI.
 - Optimizing data pipelines using Snowflake.
