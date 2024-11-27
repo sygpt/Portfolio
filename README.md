@@ -15,7 +15,7 @@ I'm an experienced data analytics and business intelligence professional with a 
 ---
 
 ## 🛠️ Skills & Tools
-- **Data Warehousing:** Snowflake, SQL
+- **Data Warehousing:** Snowflake, MS SQL
 - **Visualization & Reporting:** Power BI, DAX
 - **Data Engineering:** dbt
 - **Automation & Integration:** Excel, Power Automate, SharePoint
