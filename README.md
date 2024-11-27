@@ -20,7 +20,7 @@ I'm an experienced data analytics and business intelligence professional with a 
 - **Data Engineering:** dbt
 - **Automation & Integration:** Excel, Power Automate, SharePoint
 - **CRM Tools:** Salesforce
-- **Data Governance:** Standardization, Process Optimization
+- **Data Governance:** Data Hygiene, Standardization, Process Optimization
 
 ---
 
