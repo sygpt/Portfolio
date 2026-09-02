@@ -15,11 +15,11 @@ I'm an experienced data analytics and business intelligence professional with a 
 ---
 
 ## 🛠️ Skills & Tools
-- **Data Warehousing:** Google BigQuery, Snowflake, MS SQL
+- **Data Warehousing:** Google BigQuery, MS SQL, Snowflake
 - **Visualization & Reporting:** Power BI, DAX
 - **Data Engineering:** dbt
 - **Automation & Integration:** Azure DevOps, Excel, Power Automate, SharePoint
-- **CRM & Marketing Tools:** CaliberMind, Dynamics, Marketo, Salesforce
+- **CRM & Marketing Tools:** Airtable, CaliberMind, Dynamics, Marketo, Salesforce
 - **Data Governance:** Data Hygiene, Standardization, Process Optimization
 
 ---
